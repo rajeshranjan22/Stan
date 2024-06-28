@@ -5,9 +5,10 @@ The Utility Application is a versatile tool designed to simplify daily tasks by 
 Key Features:
 
 Random Number Generator: Generate random numbers within a specified range.
-. Timer Utility: Set and manage timers with ease.
-. Text Case Converter: Quickly convert text between different cases (uppercase, lowercase, title case).
-. Day Finder: Determine the day of the week for any given date.
+
+- Timer Utility: Set and manage timers with ease.
+- Text Case Converter: Quickly convert text between different cases (uppercase, lowercase, title case).
+- Day Finder: Determine the day of the week for any given date.
 
 Each utility is accessible from the home screen
 
