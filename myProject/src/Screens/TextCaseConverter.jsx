@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { View, Text, StyleSheet } from 'react-native';
-import Clipboard from '@react-native-clipboard/clipboard';
+import { View, Text, StyleSheet, Alert } from 'react-native';
+import * as Clipboard from 'expo-clipboard';
 import CustomButton from '../Components/CustomButton';
 import TextInputField from '../Components/TextInputField';
 
@@ -15,7 +15,11 @@ const TextCaseConverter = () => {
             text.replace(/\w\S*/g, (w) => w.replace(/^\w/, (c) => c.toUpperCase()))
         );
 
-    const copyToClipboard = () => Clipboard.setString(convertedText);
+    const copyToClipboard = () => {
+        Clipboard.setStringAsync(convertedText).then(() => {
+            Alert.alert('Copied to Clipboard', 'The converted text has been copied to your clipboard.');
+        });
+    };
 
     return (
         <View style={styles.container}>
@@ -66,6 +70,7 @@ const styles = StyleSheet.create({
         width: '70%',
         marginRight: 50,
         marginBottom: 20,
+
     },
     resultContainer: {
         alignItems: 'center',
