@@ -22,8 +22,7 @@
 - Day Finder: Determine the day of the week for any given date.
 - Date Difference Calculator: Calculates the difference between two dates in days.
 
-
-Each utility is accessible from the home screen
+<h3> Each utility is accessible from the home screen </h3>
 
 ---
 
