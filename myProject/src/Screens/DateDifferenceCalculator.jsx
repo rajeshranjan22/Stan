@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
+import { View, Text, TextInput, StyleSheet } from 'react-native';
 import CustomButton from '../Components/CustomButton';
-
 
 const DateDifferenceCalculator = () => {
   const [day1, setDay1] = useState('');
@@ -12,9 +11,43 @@ const DateDifferenceCalculator = () => {
   const [year2, setYear2] = useState('');
   const [difference, setDifference] = useState('');
 
+  const isValidDate = (day, month, year) => {
+    const dayNum = parseInt(day, 10);
+    const monthNum = parseInt(month, 10);
+    const yearNum = parseInt(year, 10);
+
+    if (isNaN(monthNum) || monthNum < 1 || monthNum > 12) {
+      return 'Invalid month';
+    }
+
+    if (isNaN(dayNum) || isNaN(yearNum) || dayNum < 1 || dayNum > 31) {
+      return 'Invalid date';
+    }
+
+    const date = new Date(yearNum, monthNum - 1, dayNum);
+    if (date.getFullYear() !== yearNum || date.getMonth() + 1 !== monthNum || date.getDate() !== dayNum) {
+      return 'Invalid date';
+    }
+
+    return null;
+  };
+
   const calculateDifference = () => {
-    const date1 = new Date(`${year1}-${month1}-${day1}`);
-    const date2 = new Date(`${year2}-${month2}-${day2}`);
+    const error1 = isValidDate(day1, month1, year1);
+    const error2 = isValidDate(day2, month2, year2);
+
+    if (error1) {
+      setDifference(error1);
+      return;
+    }
+
+    if (error2) {
+      setDifference(error2);
+      return;
+    }
+
+    const date1 = new Date(year1, month1 - 1, day1);
+    const date2 = new Date(year2, month2 - 1, day2);
     const timeDiff = Math.abs(date2 - date1);
     const dayDiff = Math.ceil(timeDiff / (1000 * 60 * 60 * 24));
     setDifference(`${dayDiff} days`);
@@ -101,7 +134,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     width: '100%',
-    marginBottom: 20
+    marginBottom: 20,
   },
   input: {
     flex: 1,
@@ -111,7 +144,6 @@ const styles = StyleSheet.create({
     paddingHorizontal: 10,
     backgroundColor: '#FFFFFF',
     marginRight: 10,
-
   },
   label: {
     fontSize: 16,
