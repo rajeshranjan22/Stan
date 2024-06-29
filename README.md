@@ -27,6 +27,8 @@
 ---
 
  <h3>Some Glimps of Project :- </h3>
+ ![WhatsApp Image 2024-06-29 at 14 02 47_3dbaa088](https://github.com/rajeshranjan22/Stan/assets/107463246/99f044cb-d16a-426d-8d58-e7d17e48eabc)
+
 
 <h5>✨Home Screen</h5>
 <img src="![WhatsApp Image 2024-06-29 at 14 02 57_d36292aa](https://github.com/rajeshranjan22/Stan/assets/107463246/2dc5edf4-5d2e-42f6-969a-635c7b0f4a28)"/>
