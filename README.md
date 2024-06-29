@@ -1,4 +1,3 @@
-
  <h1>Utility Application</h1>
 
  <h3>Description :</h3>
@@ -26,4 +25,24 @@
 
 ---
 
- 
+ <h3>Some Glimps of Project :</h3>
+
+<h5>✨Home Screen</h5>
+    <img src="./myProject/assets/HomeScreen.jpg"/>
+
+<h5>✨Random Number Generator</h5>
+    <img src="./myProject/assets/RandomNumberGenerator.jpg"/>
+
+<h5>✨Timer Utility</h5>
+<img src="./myProject/assets/TimerUtility.jpg"/>
+
+<h5>✨Text Case Converter</h5>
+    <img src="./myProject/assets/TextCaseConverter.jpg"/>
+
+<h5>✨Day Finder</h5>
+<img src="./myProject/assets/DayFinder.jpg"/>
+
+<h5>✨Date Difference Calculator</h5>
+<img src="./myProject/assets/DateDifferenceCalculator.jpg"/>
+
+
