@@ -15,12 +15,15 @@
 ---
 
 <h3> Key Features :</h3>
-<h5>✨Home Page </h5>
-<h5>✨Random Number Generator </h5>
-<h5>✨Timer Utility </h5>
-<h5>✨Text Case Converter </h5>
-<h5>✨Day Finder </h5>
-<h5>✨Date Difference Calculator</h5>
+
+- Random Number Generator:: Generate random numbers within a specified range.
+- Timer Utility: Set and manage timers with ease.
+- Text Case Converter: Quickly convert text between different cases (uppercase, lowercase, title case).
+- Day Finder: Determine the day of the week for any given date.
+- Date Difference Calculator: Calculates the difference between two dates in days.
+
+
+Each utility is accessible from the home screen
 
 ---
 
