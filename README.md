@@ -26,18 +26,4 @@
 
 ---
 
- <h3>Some Glimps of Project :</h3>
-
-
-
-
-<h5>✨Home Screen</h5>
-![Home Screen](/myProject/assets/HomeScreen.jpg)
-
-<!-- <h5>✨Random Number Generator</h5>
-<img src="![WhatsApp Image 2024-06-29 at 14 02 47_3dbaa088](https://github.com/rajeshranjan22/Stan/assets/107463246/6d6be6d1-9e5f-4317-a7dd-4094ffbf8e09)"/>
-
-<h5>✨Create Account Page</h5>
-<img src="https://user-images.githubusercontent.com/107463246/221794999-74a55c0d-720c-41ae-9ac4-97c1e685c944.png"/>
- -->
-
+ 
