@@ -4,8 +4,6 @@
  <h3>Description :</h3>
  The Utility Application is a versatile tool designed to simplify daily tasks by offering a collection of convenient utilities. This application, built with React Native, provides users with an intuitive
  interface to perform various functions efficiently.
-
-<h2>Deployed Link</h2>
  
  ---
 
