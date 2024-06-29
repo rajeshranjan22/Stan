@@ -10,12 +10,26 @@ const DayFinder = () => {
     const [dayOfWeek, setDayOfWeek] = useState('');
 
     const findDayOfWeek = () => {
-        const date = new Date(year, month - 1, day);
-        if (!isNaN(date)) {
+        const dayNum = parseInt(day, 10);
+        const monthNum = parseInt(month, 10);
+        const yearNum = parseInt(year, 10);
+
+        if (isNaN(monthNum) || monthNum < 1 || monthNum > 12) {
+            setDayOfWeek('Invalid month');
+            return;
+        }
+
+        if (isNaN(dayNum) || isNaN(yearNum) || dayNum < 1 || dayNum > 31) {
+            setDayOfWeek('Invalid date');
+            return;
+        }
+
+        const date = new Date(yearNum, monthNum - 1, dayNum);
+        if (date.getFullYear() !== yearNum || date.getMonth() + 1 !== monthNum || date.getDate() !== dayNum) {
+            setDayOfWeek('Invalid date');
+        } else {
             const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
             setDayOfWeek(days[date.getDay()]);
-        } else {
-            setDayOfWeek('Invalid date');
         }
     };
 
@@ -38,7 +52,6 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         padding: 16,
         backgroundColor: '#D94496',
-
     },
     header: {
         fontSize: 24,
