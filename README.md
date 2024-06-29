@@ -1,6 +1,5 @@
 
  <h1>Utility Application</h1>
- Here you can Easily book flights, cars, hotels, cruises, or activities using Expedia.com. Booking with Expedia is easy, and you save money when purchasing a package deal.
 
  <h3>Description :</h3>
  The Utility Application is a versatile tool designed to simplify daily tasks by offering a collection of convenient utilities. This application, built with React Native, provides users with an intuitive
