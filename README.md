@@ -26,17 +26,19 @@
 
 ---
 
-<!-- <h3>Some Glimps of Project :</h3>
+ <h3>Some Glimps of Project :</h3>
 ![Screenshot (15)](https://user-images.githubusercontent.com/107463246/221794878-d5f6b182-d6b0-4a17-9111-02d168693f9f.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/107463246/221794940-83902a3f-9ac5-4b23-a264-109fe510ea1e.png)
 ![Screenshot (17)](https://user-images.githubusercontent.com/107463246/221794999-74a55c0d-720c-41ae-9ac4-97c1e685c944.png)
 
+![WhatsApp Image 2024-06-29 at 14 01 39_7f9967e6](https://github.com/rajeshranjan22/Stan/assets/107463246/97150fa4-14a0-44f3-8c72-eee029cc3e19)
 
- -->
+ 
 
 
 <h5>✨Home Page</h5>
-<img src="https://user-images.githubusercontent.com/107463246/221794878-d5f6b182-d6b0-4a17-9111-02d168693f9f.png"/>
+<img src="![WhatsApp Image 2024-06-29 at 14 01 39_7f9967e6](https://github.com/rajeshranjan22/Stan/assets/107463246/5e0cfe2f-7845-41ab-bbb9-c62a3ee8e996)
+"/>
 
 <h5>✨Login Page</h5>
 <img src="https://user-images.githubusercontent.com/107463246/221794940-83902a3f-9ac5-4b23-a264-109fe510ea1e.png"/>
