@@ -34,7 +34,10 @@
 
 
 <h5>✨Random Number Generator</h5>
-    <img src="./myProject/assets/RandomNumberGenerator.jpg"/>
+    <img src="![RandomNumberGenerator](https://github.com/rajeshranjan22/Stan/assets/107463246/15b14129-4da2-4e12-a390-5c31f744ff5e)
+"/>
+![RandomNumberGenerator](https://github.com/rajeshranjan22/Stan/assets/107463246/479e120f-ef8e-4843-825c-8bc5a32633cd)
+
 
 <h5>✨Timer Utility</h5>
 <img src="./myProject/assets/TimerUtility.jpg"/>
