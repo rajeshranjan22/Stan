@@ -29,6 +29,8 @@
 
 <h5>✨Home Screen</h5>
 ![image](https://github.com/rajeshranjan22/Stan/assets/107463246/3f386916-316c-4037-aa1c-1849f321a0b7)
+![Screenshot 2024-07-03 100948](https://github.com/rajeshranjan22/Stan/assets/107463246/ceb3796b-bf18-429b-ba90-b6ee96ccdd6f)
+
 
 
 <h5>✨Random Number Generator</h5>
