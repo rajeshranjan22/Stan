@@ -27,25 +27,7 @@
 
  <h3>Some Glimps of Project :</h3>
 
-<h5>✨Home Screen</h5>
-![image](https://github.com/rajeshranjan22/Stan/assets/107463246/62d37f26-484e-4d11-8f0a-e2e92c1d8581)
-![image](https://github.com/rajeshranjan22/Stan/assets/107463246/87230e78-86a7-4ef8-84f4-b55cc0e7bc71)
-
-
-
-<h5>✨Random Number Generator</h5>
-    <img src="./myProject/assets/RandomNumberGenerator.jpg"/>
-
-<h5>✨Timer Utility</h5>
-<img src="./myProject/assets/TimerUtility.jpg"/>
-
-<h5>✨Text Case Converter</h5>
-    <img src="./myProject/assets/TextCaseConverter.jpg"/>
-
-<h5>✨Day Finder</h5>
-<img src="./myProject/assets/DayFinder.jpg"/>
-
-<h5>✨Date Difference Calculator</h5>
-<img src="./myProject/assets/DateDifferenceCalculator.jpg"/>
+## Screenshots
+![image](https://github.com/snu0929/utilities-mobile-app/assets/113917963/21136c93-ee1e-4df2-8a20-6d9055ac63e2) ![image](https://github.com/snu0929/utilities-mobile-app/assets/113917963/59739746-38da-487e-af05-dc083f3f9f0f) ![image](https://github.com/snu0929/utilities-mobile-app/assets/113917963/9dc1e85c-9303-44c9-9dba-cd66d1364d7b) ![image](https://github.com/snu0929/utilities-mobile-app/assets/113917963/e36a1a23-fc0c-4443-8da2-483527b9d0e6) ![image](https://github.com/snu0929/utilities-mobile-app/assets/113917963/dccaddb9-6541-4691-8121-46e5aaa44b38) ![image](https://github.com/snu0929/utilities-mobile-app/assets/113917963/84ac0733-a14f-40fd-ab91-d080e68ad689)
 
 
