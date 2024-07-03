@@ -15,7 +15,7 @@
 
 <h3> Key Features :</h3>
 
-- Random Number Generator:: Generate random numbers within a specified range.
+- Random Number Generator: Generate random numbers within a specified range.
 - Timer Utility: Set and manage timers with ease.
 - Text Case Converter: Quickly convert text between different cases (uppercase, lowercase, title case).
 - Day Finder: Determine the day of the week for any given date.
