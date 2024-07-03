@@ -28,27 +28,22 @@
  <h3>Some Glimps of Project :</h3>
 
 <h5>✨Home Screen</h5>
-![image](https://github.com/rajeshranjan22/Stan/assets/107463246/3f386916-316c-4037-aa1c-1849f321a0b7)
-![Screenshot 2024-07-03 100948](https://github.com/rajeshranjan22/Stan/assets/107463246/ceb3796b-bf18-429b-ba90-b6ee96ccdd6f)
-
-
+![HomeScreen](https://github.com/rajeshranjan22/Stan/assets/107463246/765a1b6d-6ad1-436c-8eda-96e9628a0c62)
 
 <h5>✨Random Number Generator</h5>
-    <img src="![RandomNumberGenerator](https://github.com/rajeshranjan22/Stan/assets/107463246/15b14129-4da2-4e12-a390-5c31f744ff5e)
-"/>
+
 ![RandomNumberGenerator](https://github.com/rajeshranjan22/Stan/assets/107463246/479e120f-ef8e-4843-825c-8bc5a32633cd)
 
-
 <h5>✨Timer Utility</h5>
-<img src="./myProject/assets/TimerUtility.jpg"/>
+![TimerUtility](https://github.com/rajeshranjan22/Stan/assets/107463246/afd94f50-32f3-4da4-90cc-ba903ad78e38)
 
 <h5>✨Text Case Converter</h5>
-    <img src="./myProject/assets/TextCaseConverter.jpg"/>
+![TextCaseConverter](https://github.com/rajeshranjan22/Stan/assets/107463246/95b7b055-4a56-4d45-9c7a-bf22275e8de9)
 
 <h5>✨Day Finder</h5>
-<img src="./myProject/assets/DayFinder.jpg"/>
+![DayFinder](https://github.com/rajeshranjan22/Stan/assets/107463246/6244e6ce-798f-4809-8c1b-35a27cfbfbf3)
 
 <h5>✨Date Difference Calculator</h5>
-<img src="./myProject/assets/DateDifferenceCalculator.jpg"/>
+![DateDifferenceCalculator](https://github.com/rajeshranjan22/Stan/assets/107463246/c3334dfb-0828-4b6e-9ed6-b3a3bf6b6351)
 
 
