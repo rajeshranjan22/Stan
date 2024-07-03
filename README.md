@@ -28,7 +28,7 @@
  <h3>Some Glimps of Project :</h3>
 
 <h5>✨Home Screen</h5>
-    <img src="./myProject/assets/HomeScreen.jpg"/>
+![image](https://github.com/rajeshranjan22/Stan/assets/107463246/7b3f360c-2350-4179-8539-8b4920aa9c58)
 
 <h5>✨Random Number Generator</h5>
     <img src="./myProject/assets/RandomNumberGenerator.jpg"/>
